@@ -1,8 +1,9 @@
-Probability and Statistics
+Probability and Statistics:
 
 Overview
 
 This project was developed as part of the Statistics assignment for the Electrical and Computer Engineering course in the 4th semester. 
+
 
 Project Structure
 
